@@ -1,0 +1,258 @@
+/* max-width 1499 */
+@media (max-width: 1500px) {
+
+    .our-mission-clipath {
+        clip-path: polygon(51% 52%, 100% 38%, 100% 100%, 0 100%, 0% 39%);
+    }
+}
+/* max-width 1399 */
+@media (max-width: 1399px) {
+
+    .our-mission-content p {
+        font-size: 16px;
+    }
+}
+
+/* max-width 1200 */
+@media (max-width: 1200px) {
+
+    .our-mission-clipath {
+        height: 70vh;
+    }
+}
+/* max-width 1099 */
+@media (max-width: 1099px) {
+    .second-section::before {
+        width: 89%;
+    }
+}
+
+/* max-width 1025 */
+@media (max-width: 1025px) {
+
+
+    .our-mission svg {
+        width: 40px;
+        aspect-ratio: 1;
+        color: #033394;
+    }
+
+
+
+
+    .our-mission .our-mission-content {
+        padding-top: 150px;
+        height: 70vh;
+    }
+
+
+
+    .second-section::before {
+        width: 94%;
+    }
+
+
+
+    .hero-img-main-div {
+        align-items: center;
+    }
+}
+
+/* max-width 992 */
+@media (max-width: 992px) {
+
+    .our-mission-content p {
+        padding-top: 0px;
+        width: 72%;
+    }
+
+    .second-section::before {
+        display: none;
+    }
+
+    .custom-shape-divider-bottom-1721031857 svg {
+        height: 67px;
+    }
+
+    .main-hero .hero-img-main-div {
+        align-items: center;
+    }
+
+    .navbar .nav-logo {
+        margin-left: -22px;
+    }
+
+    .navbar ul li a {
+        width: 100%;
+        text-align: center;
+    }
+
+
+    .hero-content p {
+        font-size: 18px !important;
+    }
+
+    .accordion .accordion-heading {
+        width: 100%;
+    }
+
+    .register-card-content {
+        padding: 30px 10px 22px 10px;
+    }
+
+    .our-mission-clipath {
+        clip-path: polygon(51% 50%, 100% 38%, 100% 100%, 0 100%, 0% 38%);
+    }
+    /* record page responsive css */
+    .child-information .child-name {
+        width: 100%;
+    }
+}
+
+@media (max-width: 912px) {
+    .main-hero {
+        height: 50vh;
+    }
+
+        .main-hero .hero-content {
+            height: 50vh;
+        }
+
+    .hero-img-main-div {
+        height: 50vh;
+    }
+}
+
+/* max-width 854 */
+
+@media (max-width: 854px) {
+    .main-hero {
+        height: 60vh !important;
+    }
+
+        .main-hero .hero-content {
+            height: 60vh !important;
+        }
+
+    .hero-img-main-div {
+        height: 60vh;
+    }
+}
+
+/* max-width 768*/
+@media (max-width: 768px) {
+    .main-hero .hero-content {
+        height: 80vh;
+        width: 50%;
+    }
+
+    .our-mission-content p {
+        padding-top: 100px;
+        width: 85%;
+    }
+
+    .accordion .accordion-heading {
+        width: 100%;
+    }
+
+    .img-container img {
+        width: 100%;
+    }
+
+    .newsletter-section h2 {
+        font-size: 36px;
+    }
+
+    .navbar .nav-logo {
+        margin-left: 0;
+    }
+
+    .main-hero {
+        height: 100vh;
+    }
+
+        .main-hero .hero-content {
+            height: 100vh;
+        }
+
+
+    .newsletter-div input {
+        width: 100%;
+    }
+
+    .newsletter-div {
+        width: 70%;
+    }
+
+        .newsletter-div input {
+            margin-bottom: 16px;
+        }
+
+    .newsletter-section p {
+        width: 100%;
+    }
+
+    .our-mission-clipath {
+        clip-path: polygon(50% 45%, 100% 38%, 100% 100%, 0 100%, 0% 38%);
+        height: 70vh;
+    }
+
+    .hero-content .content-inner-div h1 {
+        font-size: 15px;
+    }
+}
+/* max-width 540*/
+@media (max-width: 541px) {
+
+    .hero-content p {
+        font-size: 10px !important;
+    }
+
+    .newsletter-section h2 {
+        font-size: 26px;
+    }
+
+    .our-mission-content p {
+        padding-top: 0;
+        width: 100%;
+    }
+}
+
+
+/* max-width 430 */
+@media (max-width: 430px) {
+}
+
+/* max-width 390 */
+@media (max-width: 390px) {
+}
+
+/* max-width 375 */
+@media (max-width: 376px) {
+
+    .main-hero {
+        height: 100vh !important;
+    }
+
+        .main-hero .hero-content {
+            height: 100vh !important;
+        }
+
+    .our-mission-clipath {
+        height: 82vh !important;
+    }
+
+    .our-mission-content p {
+        padding-top: 134px;
+    }
+
+    .hero-content .content-inner-div {
+        width: 100%;
+    }
+}
+
+@media (max-width: 361px) {
+}
+
+@media (max-width: 345px) {
+}

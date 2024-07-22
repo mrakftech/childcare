@@ -1,0 +1,151 @@
+.account-section {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  background: #e6edf9;
+  height: auto;
+}
+
+.account-card .profile-background {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.account-section .account-card {
+  border: none !important;
+  border-radius: 20px;
+}
+
+.account-card .account-card-body {
+  background-color: #fff !important;
+  border-radius: 10px;
+}
+
+.account-card .profile-header {
+  position: relative;
+}
+
+.profile-header .banner-icon {
+  position: absolute;
+  top: 86%;
+  right: 25px;
+  font-size: 22px;
+  background-color: #fff;
+  padding: 0px 3px 0px 3px;
+}
+
+.account-card .profile-image-div {
+  position: relative;
+}
+
+.account-card .profile-image-div i {
+  position: absolute;
+  left: 14%;
+  bottom: -43px;
+  background-color: #fff;
+  padding: 0px 2px 0px 2px;
+}
+
+.account-card .profile-picture {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  border: 2px solid white;
+  position: absolute;
+  bottom: -50px;
+  left: calc(9% - 50px);
+}
+
+/* Edit Account Section css */
+.edit-account {
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.account-item .bi-chevron-right::before {
+  font-weight: 900 !important;
+}
+
+/*  Child Registatrtion Page Css */
+.registration-section{
+  background-color:  #e6edf9;
+  height: calc(100vh - 87px);
+}
+.registration-section .profile-img img{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.registration-section .profile-img{
+  position: relative;
+}
+.registration-section .profile-img i{
+  position: absolute;
+  left: 75%;
+  bottom: 0%;
+  background-color: #fff;
+  padding: 0px 2px 0px 2px;
+}
+.registration-section .registration-form-row{
+  width: 30%;
+  margin: 0 auto;
+}
+.form-container input, .form-container select{
+  border-radius: 12px !important;
+  padding: 10px 10px 10px 17px;
+}
+.form-container input, .form-container select:focus{
+  box-shadow: none !important;
+}
+.form-container .register-button{
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 12px;
+  background-color: #014ec4;
+  color: #fff;
+}
+
+
+
+/* Account page responsive css */
+
+/* MAX-WIDTH 992PX */
+@media (max-width: 992px) {
+  .account-card .profile-picture {
+    left: calc(14% - 50px) !important;
+  }
+
+  .account-card .profile-image-div i {
+    left: 23% !important;
+    bottom: -49px !important;
+  }
+  .registration-section .registration-form-row {
+    width: 42% !important;
+    margin: 0 auto !important;
+}
+}
+
+/* MAX-WIDTH 768PX */
+@media (max-width: 768px) {
+  .account-card .profile-picture {
+    left: calc(18% - 50px) !important;
+  }
+
+  .account-card .profile-image-div i {
+    left: 30% !important;
+    bottom: -45px !important;
+  }
+  .registration-section .registration-form-row {
+    width: 60% !important;
+    margin: 0 auto !important;
+}
+}
+@media (max-width: 576px) {
+  .registration-section .registration-form-row {
+      width: 100% !important;
+      margin: 0 auto !important;
+  }
+}

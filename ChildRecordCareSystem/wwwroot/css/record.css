@@ -1,0 +1,193 @@
+
+
+/* child record page css */
+.child-information .child-name {
+    background-color: #0693e3;
+    border-radius: 8px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+}
+
+.child-information .accordion-item button {
+    color: #fff;
+}
+
+.child-information .accordion .accordion-button:not(.collapsed) {
+    border-bottom: 1px solid #edf2f7;
+    outline: 0;
+    box-shadow: unset !important;
+    background-color: #0693e3bf !important;
+    color: #fff !important;
+}
+
+
+
+.vaccination-table thead th, .growth-table thead th, .vitals-table thead th {
+    background-color: #d9edf8;
+    color: #000000;
+    font-size: 15px;
+    padding: 20px 0px 20px 19px;
+    border: none;
+}
+
+.vaccination-table tbody tr td, .growth-table tbody tr td, .vitals-table tbody tr td {
+    border-bottom: none;
+    vertical-align: middle;
+    color: #000000;
+    font-size: 14px;
+}
+
+.vaccination-table tbody tr:nth-child(1) td, .growth-table tbody tr:nth-child(1) td, .vitals-table tbody tr:nth-child(1) td {
+    background-color: #faedcb;
+    padding: 4px 0px 0px 13px;
+}
+
+.vaccination-table tbody tr:nth-child(2) td, .growth-table tbody tr:nth-child(2) td, .vitals-table tbody tr:nth-child(2) td {
+    background-color: #c9e4de;
+    padding: 4px 0px 0px 13px;
+}
+
+.vaccination-table tbody tr:nth-child(3) td, .growth-table tbody tr:nth-child(3) td, .vitals-table tbody tr:nth-child(3) td {
+    background-color: #c6def1;
+    padding: 4px 0px 0px 13px;
+}
+
+.vaccination-table tbody tr:nth-child(4) td {
+    background-color: #dbcdf0;
+    padding: 4px 0px 0px 13px;
+}
+
+.vaccination-table tbody tr:nth-child(5) td {
+    background-color: #f2c6de;
+    padding: 4px 0px 0px 13px;
+}
+
+.vaccination-table tbody tr:nth-child(6) td {
+    background-color: #ffd6a5;
+    padding: 4px 0px 0px 13px;
+}
+
+.vaccination-table tbody tr:nth-child(7) td {
+    background-color: #B3E5FC;
+    padding: 4px 0px 0px 13px;
+}
+
+
+
+table {
+    border-color: #0693e3 !important;
+}
+
+.child-information .accordion .accordion-button:focus {
+    background-color: #0693e3bf !important;
+}
+
+.child-information .accordion .accordion-button span:hover {
+    color: #fff;
+}
+
+.profile-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.child-information .save-button {
+    padding: 10px 23px;
+    border: none;
+    border-radius: 12px;
+    background-color: #0693e3;
+    font-weight: 700;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+    .child-information .save-button:hover {
+        background-color: #0693e3bf;
+    }
+
+.table-body td {
+    position: relative;
+}
+
+.table-body input[type="hidden"] {
+    display: none;
+}
+
+.table-body span {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.table-input {
+    width: 100%;
+    border: none;
+    box-sizing: border-box;
+    padding: 8px;
+    background-color: transparent;
+}
+
+    .table-input:focus {
+        outline: none;
+    }
+
+.table-bordered .table-input {
+    display: block;
+    height: 100%;
+    margin: 0;
+}
+
+.profile-card {
+    padding: 20px;
+}
+
+.child-information .form-group {
+    margin-bottom: 15px;
+}
+
+.child-information .form-control {
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid #ffff;
+    border-radius: unset;
+    padding: 3px 0px 3px 3px;
+}
+
+    .child-information .form-control:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+.col-form-label {
+    font-weight: bold;
+    color: white;
+}
+
+.child-record-accordion:first-child .accordion-button {
+    background-color: #4f7eaf;
+}
+
+.child-record-accordion:nth-child(2) .accordion-button {
+    background-color: #ffa500;
+}
+
+.child-record-accordion:nth-child(3) .accordion-button {
+    background-color: #90ee90;
+}
+
+.child-record-accordion:last-child .accordion-button {
+    background-color: #215387;
+}
+
+.child-record-accordion:first-child .accordion-button:not(.collapsed) {
+    background-color: #215387;
+}

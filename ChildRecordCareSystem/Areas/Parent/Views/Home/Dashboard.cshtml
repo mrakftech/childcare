@@ -1,0 +1,114 @@
+﻿@model IEnumerable<Child>
+<style>
+    .img-fluid {
+        max-width: 100%;
+        height: 216px;
+    }</style>
+<!-- Morning Section -->
+<div class="morning-section">
+    <div class="container">
+        <b>Free Trial</b>
+        <div class="row">
+            <div class="col-12 mt-3 d-flex">
+                <div class="profile-section">
+                    <div class="profileImg-section">
+                        <img src="~/assets/img/profileuser.png" alt="profile" class="profileIMG">
+                    </div>
+                    <h6 style="display: flex; align-items: center;">
+                        <span style="margin-right: 10px;">Father/Mother:</span>
+                        <span><strong>@ViewBag.FullName</strong></span>
+                    </h6>
+                </div>
+                <div class="profile-rightSection">
+                    <div class="icons">
+                        <a href="@Url.Action("Account", "Home", new { area = "Parent" })" class="text-decoration-none">
+                            <i class="fa-solid fa-gear" style="cursor: pointer;"></i>
+                        </a>
+
+                        <i class="fa-solid fa-bell"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="title">
+                    <h6>Children</h6>
+                </div>
+                <div class="bottom-sectionProfile">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4 d-flex justify-content-center align-items-center ">
+                                <a href="/parent/home/childregistration" style="color: inherit; text-decoration: none;">
+                                    <i class="fa-solid fa-square-plus" style="cursor: pointer;" data-bs-toggle="modal" data-bs-target="#addChildModal"></i>
+                                </a>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <a href="/parent/home/childregistration" style="color: white; text-decoration: none;">
+                                        <span style="cursor: pointer;"> Add Child</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bottom-sectionProfile">
+                    <div class="row">
+                        @foreach (var child in Model)
+                        {
+                            <div class="col-md-6 mb-3">
+                                <div class="card" style="max-width: 540px;">
+                                    <div class="row g-0">
+                                        <div class="col-md-4">
+                                            <img src="~/childimage/@child.ChildProfilePath" class="img-fluid rounded-start" alt="Profile Image">
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="card-body">
+                                                <a href="/Parent/Home/ChildRecord" target="_blank" style="color: white;">Name: @child.FullName</a>
+
+                                                <span style="margin-left: 130px;">
+                                                    <a href="@Url.Action("Edit", "Home", new { id = child.ChildId, area = "Parent" })">
+                                                        <i class="fa-solid fa-edit" style="color: white;"></i>
+                                                    </a>
+                                                </span>
+                                                <span>
+                                                    <i class="fa-solid fa-trash" style="color: white; cursor: pointer;" onclick="confirmDelete(@child.ChildId)"></i>
+                                                </span>
+                                                <p style="color:white; margin-top: 17px;">Gender : @child.Gender</p>
+                                                <p style="color:white">Phone Number: @child.PhoneNumber</p>
+                                                <p style="color:white">DOB: @child.DOB</p>
+                                                 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function confirmDelete(childId) {
+        if (confirm("Are you sure you want to delete this child?")) {
+            $.ajax({
+                url: '@Url.Action("Delete", "Home", new { area = "Parent" })',
+                type: 'POST',
+                data: { id: childId },
+                success: function (result) {
+                    alert('Child deleted successfully.');
+                    location.reload(); // Reload the page to update the list
+                },
+                error: function (xhr, status, error) {
+                    alert('An error occurred while deleting the child. Please try again.');
+                }
+            });
+        }
+    }
+</script>

@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ChildRecordCareSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ChildRecordCareSystem.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\WhatWeDp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatWeDp.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\baby.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baby.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\babyy.avif",
+      "PackagePath": "staticwebassets\\assets\\images\\babyy.avif"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\child img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\child img.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\childrecordslogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\childrecordslogo.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\children.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\children.jpeg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\childrenimg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\childrenimg.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\heroimg.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\heroimg.jpeg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\logo.jfif",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jfif"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\images\\newsletter-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\newsletter-bg.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\babyy.avif",
+      "PackagePath": "staticwebassets\\assets\\img\\babyy.avif"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\boy.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\boy.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\ch.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ch.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\childrecordslogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\childrecordslogo.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\childrenimg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\childrenimg.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\fam.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\fam.jfif"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\famm.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\famm.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\login screen shot.png",
+      "PackagePath": "staticwebassets\\assets\\img\\login screen shot.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\logo.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.PNG"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\logo11.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\logo11.PNG"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo2.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\profileUser.png",
+      "PackagePath": "staticwebassets\\assets\\img\\profileUser.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\screencapture-127-0-0-1-5500-Home-html-2024-07-11-03_54_04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\screencapture-127-0-0-1-5500-Home-html-2024-07-11-03_54_04.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\screencapture-127-0-0-1-5500-Login-html-2024-07-11-02_12_32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\screencapture-127-0-0-1-5500-Login-html-2024-07-11-02_12_32.png"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\assets\\img\\wave.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\wave.PNG"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\089f62cb-b792-42f0-ac9d-000f82e16fa6_118790.jpg",
+      "PackagePath": "staticwebassets\\childimage\\089f62cb-b792-42f0-ac9d-000f82e16fa6_118790.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\20634988-69bb-4027-9704-b7859181c111_118790.jpg",
+      "PackagePath": "staticwebassets\\childimage\\20634988-69bb-4027-9704-b7859181c111_118790.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\232f8a96-cd06-4c64-9aa8-edb3a47383ec_tree-736885_960_720.jpg",
+      "PackagePath": "staticwebassets\\childimage\\232f8a96-cd06-4c64-9aa8-edb3a47383ec_tree-736885_960_720.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\35b893e6-2464-47c1-a5cf-c117b595cc2d_pexels-pixabay-220429.jpg",
+      "PackagePath": "staticwebassets\\childimage\\35b893e6-2464-47c1-a5cf-c117b595cc2d_pexels-pixabay-220429.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\41c34427-b8e0-46a5-9a50-8e8459e5936a_tree-736885_960_720.jpg",
+      "PackagePath": "staticwebassets\\childimage\\41c34427-b8e0-46a5-9a50-8e8459e5936a_tree-736885_960_720.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\5c527315-25f4-4271-ac78-8c0d5e2d9439_118790.jpg",
+      "PackagePath": "staticwebassets\\childimage\\5c527315-25f4-4271-ac78-8c0d5e2d9439_118790.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\7e955b24-51b4-40a4-a52a-607f43a63d83_tree-736885_960_720.jpg",
+      "PackagePath": "staticwebassets\\childimage\\7e955b24-51b4-40a4-a52a-607f43a63d83_tree-736885_960_720.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\8fbd4000-8d71-47b2-a62a-37d754aca15f_tree-736885_960_720.jpg",
+      "PackagePath": "staticwebassets\\childimage\\8fbd4000-8d71-47b2-a62a-37d754aca15f_tree-736885_960_720.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\92e9b7d1-3b70-44a9-b962-6bb38bc1e505_pexels-pixabay-220429.jpg",
+      "PackagePath": "staticwebassets\\childimage\\92e9b7d1-3b70-44a9-b962-6bb38bc1e505_pexels-pixabay-220429.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\a7de84b0-7637-4ef7-8a35-0f80aef8c3d5_118790.jpg",
+      "PackagePath": "staticwebassets\\childimage\\a7de84b0-7637-4ef7-8a35-0f80aef8c3d5_118790.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\c674578b-21e2-4c21-9484-ea8154581754_118790.jpg",
+      "PackagePath": "staticwebassets\\childimage\\c674578b-21e2-4c21-9484-ea8154581754_118790.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\dfdfaffe-2381-4a7a-8f83-b0a8ddd4b3f1_Capture.PNG",
+      "PackagePath": "staticwebassets\\childimage\\dfdfaffe-2381-4a7a-8f83-b0a8ddd4b3f1_Capture.PNG"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\childimage\\fdfb559c-0024-4264-ad26-d859bc5d3fa2_118790.jpg",
+      "PackagePath": "staticwebassets\\childimage\\fdfb559c-0024-4264-ad26-d859bc5d3fa2_118790.jpg"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\confirmation.css",
+      "PackagePath": "staticwebassets\\css\\confirmation.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\css.css",
+      "PackagePath": "staticwebassets\\css\\css.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\price.css",
+      "PackagePath": "staticwebassets\\css\\price.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\record.css",
+      "PackagePath": "staticwebassets\\css\\record.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Task\\ChildCare\\backend\\ChildRecordCareSystem\\ChildRecordCareSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChildRecordCareSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChildRecordCareSystem.props",
+      "PackagePath": "build\\ChildRecordCareSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChildRecordCareSystem.props",
+      "PackagePath": "buildMultiTargeting\\ChildRecordCareSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChildRecordCareSystem.props",
+      "PackagePath": "buildTransitive\\ChildRecordCareSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,309 @@
+﻿ 
+<head>
+    <link href="~/css/record.css" rel="stylesheet" /><link href="~/css/record.css" rel="stylesheet" />
+</head>
+<section class="child-information">
+    <div class="container">
+        <div class="row text-center child-name pt-4">
+            <div class="col-lg-3 ">
+                <div class="profile-card d-flex flex-column align-items-center justify-content-center h-100">
+                    <img src="~/assets/img/ch.jpg" alt="Profile Image" class="profile-image">
+                    <h3 class="pt-3 text-white">Demo</h3>
+                </div> 
+            </div>
+            <div class="col-lg-9">
+                <form>
+                    <div class="row">
+                        <div class="col-md-6 d-flex flex-column justify-content-center">
+                            <div class="form-group d-flex align-items-center justify-content-around">
+                                <label for="gender" class="col-form-label pr-3">Gender</label>
+                                <div class="">
+                                    <input type="text" class="form-control invisible-input" id="gender" name="gender" placeholder="Enter Gender" value="Girl">
+                                </div>
+                            </div>
+                            <div class="form-group d-flex align-items-center justify-content-around">
+                                <label for="dob" class="col-form-label pr-3">DOB</label>
+                                <div class="">
+                                    <input type="text" class="form-control invisible-input" id="dob" name="dob" placeholder="Enter DOB" value="27-05-2022">
+                                </div>
+                            </div>
+                            <div class="form-group d-flex align-items-center justify-content-around ">
+                                <label for="age" class="col-form-label pr-3">Age</label>
+                                <div class="">
+                                    <input type="text" class="form-control invisible-input" id="age" name="age" placeholder="Enter Age" value="2 Years">
+                                </div>
+                            </div>
+                            <div class="form-group d-flex align-items-center justify-content-around">
+                                <label for="city" class="col-form-label pr-3">City</label>
+                                <div class="">
+                                    <input type="text" class="form-control invisible-input" id="city" name="city" placeholder="Enter City" value="Jeddah">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 d-flex flex-column justify-content-center pt-3 ">
+                            <div class="form-group d-flex align-items-center justify-content-around">
+                                <label for="country" class="col-form-label pr-3">Country</label>
+                                <div class="">
+                                    <input type="text" class="form-control invisible-input" id="country" name="country" placeholder="Enter Country" value="KSA">
+                                </div>
+                            </div>
+                            <div class="form-group d-flex align-items-center justify-content-around">
+                                <label for="phone" class="col-form-label pr-3">P/G Phone</label>
+                                <div class="">
+                                    <input type="text" class="form-control invisible-input" id="phone" name="phone" placeholder="Enter Phone Number" value="00966594758">
+                                </div>
+                            </div>
+                            <div class="form-group d-flex align-items-center justify-content-around">
+                                <label for="physician" class="col-form-label pr-3">Physician</label>
+                                <div class="">
+                                    <input type="text" class="form-control invisible-input" id="physician" name="physician" placeholder="Enter Physician" value="Dr. Faisal">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-12  accordion-col ps-0 pe-0 mt-4">
+                <form method="POST" action="your-server-endpoint">
+                    <!-- Table for general information -->
+                    <!-- Accordion for other sections -->
+                    <div class="accordion mt-3" id="accordionExample">
+                        <!-- Accordion Item 1 -->
+                        <div class="accordion-item child-record-accordion">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button mb-3 fw-bolder collapsed gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    <span class="accordion-icon"></span> <span class="accordion-ques">Vaccinations and immunizations :</span>
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-12 ps-0 table-responsive pe-0">
+                                            <table class="table  vaccination-table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Vaccine</th>
+                                                        <th>Dated</th>
+                                                        <th>Next Due Date</th>
+                                                        <th>Admin By</th>
+                                                        <th>Notes</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>Hepatitis C</td>
+                                                        <td><input type="text" name="hepatitis_c_dated" class="table-input"></td>
+                                                        <td><input type="text" name="hepatitis_c_next_due" class="table-input"></td>
+                                                        <td><input type="text" name="hepatitis_c_admin_by" class="table-input"></td>
+                                                        <td><input type="text" name="hepatitis_c_notes" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Rota Virus</td>
+                                                        <td><input type="text" name="rota_virus_dated" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_next_due" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_admin_by" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_notes" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>DTap</td>
+                                                        <td><input type="text" name="rota_virus_dated" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_next_due" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_admin_by" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_notes" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Hib</td>
+                                                        <td><input type="text" name="rota_virus_dated" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_next_due" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_admin_by" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_notes" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Polio (IPV)</td>
+                                                        <td><input type="text" name="rota_virus_dated" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_next_due" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_admin_by" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_notes" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>MMR</td>
+                                                        <td><input type="text" name="rota_virus_dated" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_next_due" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_admin_by" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_notes" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Influenza</td>
+                                                        <td><input type="text" name="rota_virus_dated" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_next_due" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_admin_by" class="table-input"></td>
+                                                        <td><input type="text" name="rota_virus_notes" class="table-input"></td>
+                                                    </tr>
+                                                    <!-- Add more rows as needed -->
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Accordion Item 2 -->
+                        <div class="accordion-item child-record-accordion">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button fw-bolder mb-3 collapsed gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <span class="accordion-icon"></span> <span class="accordion-ques">Growth and Development :</span>
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-12 ps-0 table-responsive pe-0">
+                                            <table class="table  growth-table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Visit Date</th>
+                                                        <th>Weight (kg)</th>
+                                                        <th>Height (cm)</th>
+                                                        <th>Body Mass Index</th>
+                                                        <th>Notes</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td><input type="text" name="growth_visit_date_1" class="table-input"></td>
+                                                        <td><input type="text" name="growth_weight_1" class="table-input"></td>
+                                                        <td><input type="text" name="growth_height_1" class="table-input"></td>
+                                                        <td><input type="text" name="growth_bmi_1" class="table-input"></td>
+                                                        <td><input type="text" name="growth_notes_1" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><input type="text" name="growth_visit_date_2" class="table-input"></td>
+                                                        <td><input type="text" name="growth_weight_2" class="table-input"></td>
+                                                        <td><input type="text" name="growth_height_2" class="table-input"></td>
+                                                        <td><input type="text" name="growth_bmi_2" class="table-input"></td>
+                                                        <td><input type="text" name="growth_notes_2" class="table-input"></td>
+                                                    </tr>
+                                                    <!-- Add more rows as needed -->
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Accordion Item 3 -->
+                        <div class="accordion-item child-record-accordion ">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button mb-3 fw-bolder collapsed gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <span class="accordion-icon"></span> <span class="accordion-ques">VITALS :</span>
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-12 ps-0 table-responsive pe-0">
+                                            <table class="table  vitals-table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Visit Date</th>
+                                                        <th>Temp. (C)</th>
+                                                        <th>Heart Rate (bpm)</th>
+                                                        <th>Blood Pressure (mmHg)</th>
+                                                        <th>Admin By</th>
+                                                        <th>Notes</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td><input type="text" name="vitals_visit_date_1" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_temp_1" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_heart_rate_1" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_blood_pressure_1" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_admin_by_1" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_notes_1" class="table-input"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><input type="text" name="vitals_visit_date_2" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_temp_2" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_heart_rate_2" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_blood_pressure_2" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_admin_by_2" class="table-input"></td>
+                                                        <td><input type="text" name="vitals_notes_2" class="table-input"></td>
+                                                    </tr>
+                                                    <!-- Add more rows as needed -->
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Accordion Item 4 -->
+                        <div class="accordion-item child-record-accordion">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button fw-bolder collapsed gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    <span class="accordion-icon"></span> <span class="accordion-ques">Developmental Milestones :</span>
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-12 table-responsive ps-0 pe-0">
+                                            <table class="table  vitals-table">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Milestone </th>
+                                                        <th>Achieved Date</th>
+                                                        <th>Notes</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>Smiling</td>
+
+                                                        <td><input type="text" name="milestones_visit_date_1" class="table-input"></td>
+                                                        <td><input type="text" name="milestones_temp_1" class="table-input"></td>
+
+
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Sitting without Support</td>
+                                                        <td><input type="text" name="milestones_visit_date_2" class="table-input"></td>
+                                                        <td><input type="text" name="milestones_temp_2" class="table-input"></td>
+
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Crawling</td>
+                                                        <td><input type="text" name="milestones_visit_date_2" class="table-input"></td>
+                                                        <td><input type="text" name="milestones_temp_2" class="table-input"></td>
+
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Walking</td>
+                                                        <td><input type="text" name="milestones_visit_date_2" class="table-input"></td>
+                                                        <td><input type="text" name="milestones_temp_2" class="table-input"></td>
+
+                                                    </tr>
+                                                    <!-- Add more rows as needed -->
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="save-button my-5">SAVE/UPDATE</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

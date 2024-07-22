@@ -1,0 +1,298 @@
+/* *{
+    outline: 1px solid hotpink;
+} */
+.navbar-parent{
+    background:  #91c0de;
+ }
+ .ulnavbar{
+     background: hsl(204, 43%, 77%);
+     padding-inline: 30px;
+     border-radius: 30px;
+     gap: 20px;
+ }
+ .nav-link {
+     color: black;
+ }
+ .nav-link.active {
+     color: #2d6ecb !important;
+     font-weight: bold;
+ }
+ .downloadApp{
+     background:  #014ec4;
+     border-radius: 20px;
+    padding-inline: 15px;
+    padding-block: 5px;
+     color: white;
+ }
+ .downloadApp:hover{
+     border: 1px solid #014ec4;
+ }
+.pricing-card{
+padding-top: 50px;
+padding-bottom: 50px;
+background: #e6edf9;
+height: 100%;
+
+}
+.price-Heading{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.priceSubscribe{
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.price-subHeading{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.paySubscription{
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #3a3b3e;
+}
+.PriceCard{
+    display: flex;
+    gap: 20px;
+}
+.firstCard{
+    width: 50%;
+    border: 1px solid green;
+    padding: 20px;
+    background: white;
+    height: 400px;
+    position: relative;
+    border-radius: 20px;
+}
+.Card_heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.free-trail .month-trail{
+    font-size: 23px;
+    font-family: "Roboto", sans-serif;
+    color: #014ec4;
+    font-weight: 500;
+}
+.accessability-section{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.accessibility{
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+  
+}
+.checkicon{
+    padding-right: 10px;
+}
+.cardLast-btn{
+position: absolute;
+bottom: 10px;
+width: 100%;
+left: 10;
+}
+.cardLast-btn .proced{
+    width: 88%;
+    color: white;
+    background: #014ec4;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+   
+
+}
+.proceed-a{
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+.monthly{
+    font-size: 12px;
+}
+.additionla-text{
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+ @media only screen and (max-width: 1000px) {
+    .navbar-parent{
+        background:  #91c0de;
+     }
+     .navbar-brand{
+        padding-left: 20px;
+     }
+     .ulnavbar{
+         /* background: transparent; */
+         padding-inline: 30px;
+         border-radius: 30px;
+         gap: 20px;
+         margin-top: 10px;
+         margin-bottom: 30px;
+       }
+ 
+     .downloadApp{
+         background:  #014ec4;
+         border-radius: 20px;
+        padding-inline: 15px;
+        padding-block: 5px;
+         color: white;
+     }
+     .PriceCard{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    .firstCard{
+        width: 50%;
+        border: 1px solid green;
+        padding: 20px;
+        background: white;
+        height: 400px;
+        position: relative;
+        border-radius: 20px;
+    }
+    .Card_heading{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .free-trail .month-trail{
+        font-size: 23px;
+        font-family: "Roboto", sans-serif;
+        color: #014ec4;
+        font-weight: 500;
+    }
+    .accessability-section{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    .accessibility{
+        font-size: 14px;
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+      
+    }
+    .checkicon{
+        padding-right: 10px;
+    }
+    .cardLast-btn{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    left: 10;
+    }
+    .cardLast-btn .proced{
+        width: 88%;
+        color: white;
+        background: #014ec4;
+        border: none;
+        border-radius: 10px;
+        height: 40px;
+    
+    }
+    .monthly{
+        font-size: 12px;
+    }
+    .additionla-text{
+        font-size: 14px;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+    }
+    
+
+
+  }
+  @media only screen and (max-width: 600px) {
+
+     .PriceCard{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        width: 100%;
+    }
+    .firstCard{
+        width: 100%;
+        border: 1px solid green;
+        padding: 20px;
+        background: white;
+        height: 400px;
+        position: relative;
+        border-radius: 20px;
+    }
+    .Card_heading{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .free-trail .month-trail{
+        font-size: 23px;
+        font-family: "Roboto", sans-serif;
+        color: #014ec4;
+        font-weight: 500;
+    }
+    .accessability-section{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    .accessibility{
+        font-size: 14px;
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+      
+    }
+    .checkicon{
+        padding-right: 10px;
+    }
+    .cardLast-btn{
+    position: absolute;
+    bottom: 10px;
+    width: 95%;
+    left: 10;
+    }
+    .cardLast-btn .proced{
+        width: 95%;
+        color: white;
+        background: #014ec4;
+        border: none;
+        border-radius: 10px;
+        height: 40px;
+    
+    }
+    .monthly{
+        font-size: 12px;
+    }
+    .additionla-text{
+        font-size: 14px;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+    }
+    
+
+
+  }
